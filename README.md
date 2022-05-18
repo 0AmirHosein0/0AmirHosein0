@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0AmirHosein0
+- 👀 I’m interested in make apps
+- 🌱 I’m currently learning python
